@@ -1,6 +1,6 @@
 # UEA: Base De Datos
 
-En proceso ...
+Buscando ...
 
 > “Aqui ira el proyecto de base de daatos.”
 
